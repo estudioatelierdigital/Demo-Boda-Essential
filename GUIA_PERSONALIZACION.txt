@@ -1,0 +1,22 @@
+GUÍA RÁPIDA PARA CONVERTIR ESTA DEMO EN INVITACIÓN REAL
+
+index.html
+- Cambia los nombres visibles de la pareja.
+- Cambia padres, padrinos, ceremonia, recepción, itinerario, dress code y mesa de regalos.
+- Quita la clase disabled-link de los botones que ya tengan enlace real.
+- Reemplaza href="#" por la URL real de Google Maps o mesa de regalos.
+
+script.js
+- eventDate: fecha/hora real del evento en formato AAAA-MM-DDTHH:MM:SS.
+- rsvpPhone: número de WhatsApp con código de país. México: 52 + lada + número.
+- rsvpMessage: mensaje predeterminado de confirmación.
+
+Imágenes
+- foto1.jpg: foto principal.
+- foto2.jpg: segunda foto.
+- foto3.jpg: foto final.
+- logo.png: marca del negocio.
+- papel-abajo.png, papel-arriba.png y papel-doble.png: texturas decorativas.
+
+Música
+- musica.mp3: canción de fondo.
